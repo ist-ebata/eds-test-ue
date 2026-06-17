@@ -5,6 +5,12 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
+- Preview: https://main--eds-test-ue--ist-ebata.aem.page/
+- Live: https://main--eds-test-ue--ist-ebata.aem.live/
+
+### AEM as a Cloud Service
+https://author-p161406-e1715710.adobeaemcloud.com/
+
 ## Documentation
 
 Before using the aem-boilerplate, we recommend you to go through the documentation on [www.aem.live](https://www.aem.live/docs/), more specifically:
